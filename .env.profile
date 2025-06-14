@@ -1,0 +1,5 @@
+API_URL=""
+#clents info
+GRANT_TYPE=""
+CLIENT_ID=""
+CLIENT_SECRET=""
